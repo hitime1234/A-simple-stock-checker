@@ -32,8 +32,10 @@ def FindToken(re,Token):
         
     except:
         print("problem searching check the url")
-
+#--mathea the snow fox lover
+#https://github.com/hitime1234
 print("\n\n\n")
+
 while True:
     htmlData =getsHtmlString(url)
     FindToken(htmlData,Token)
