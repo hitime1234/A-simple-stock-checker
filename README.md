@@ -2,8 +2,16 @@
 
 # Requirements
 
+  Console & GUI:
+  
   urllib.requests
+  
   python 3
+  
+  GUI:
+  
+  Tkinter 
+  threading
   
   --note this is changable if a executable package gets made when if feel like it
   
