@@ -16,7 +16,7 @@ def getsHtmlString(url):
     try:
         #rate limt
         time.sleep(0.25)
-        re = urllib.urlopen("https://www.currys.co.uk/gbuk/gaming/console-gaming/consoles/microsoft-xbox-series-x-1-tb-10203371-pdt.html").read().decode()
+        re = urllib.urlopen(url).read().decode()
     except:
         re = -1
     return re
