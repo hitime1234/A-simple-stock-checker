@@ -2,13 +2,13 @@
 
 # Requirements
 
-  Console & GUI:
+  # Console & GUI:
   
   urllib.requests
   
   python 3
   
-  GUI:
+  #  GUI:
   
   Tkinter 
   
