@@ -10,7 +10,7 @@
 # Some ground rules
   if you haven't probably read the license before using the program as your could be using it for the wrong purpose
   
-  look at a arctic fox images or with the anime Tag because your weird.
+  and also before you use the program probably look at a arctic fox images or with the anime Tag because your weird.
   
   This must not be used for botting or "scapling" or Any form of reselling for profit
   
