@@ -20,7 +20,7 @@
 # making your own executable
     downlaod python3 
     open command prompt (windows 7/8/10)
-    windows 10 specifically uses this command
+    windows 10 specifically uses this commands
     commands:
         py -m pip install pyinstaller
         cd "to your downloads folder/ontaining GUI source"
