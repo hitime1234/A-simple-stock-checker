@@ -16,8 +16,16 @@
   
   --note this is changable if a executable package gets made when if feel like it
   
-  
-  
+
+# making your own executable
+    downlaod python3 
+    open command prompt (windows 7/8/10)
+    windows 10 specifically uses this command
+    commands:
+        py -m pip install pyinstaller
+        cd "to your downloads folder/ontaining GUI source"
+        py -m PyInstaller -F main.py --hidden-import stockCheck --hidden-import GUI -i bulb.ico
+    
 # ChangeLOG:
 
  0.5 beta:
