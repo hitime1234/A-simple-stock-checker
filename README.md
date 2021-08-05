@@ -20,19 +20,19 @@
   
 # ChangeLOG:
 
-0.5 beta:
+ #0.5 beta:
 
-  GUI ADDED
+    GUI ADDED
   
-  executable (*beta)
+    executable (*beta)
   
-0.8 final beta:
+  #0.8 final beta:
 
-  bug fixes
+    bug fixes
   
-  import modules moved around to prevent errors from not being installed
+    import modules moved around to prevent errors from not being installed
   
-  fixed it allows some sites require a cookie to do a get request from them. Open the script if you need to change the default cookie
+    fixed it allows some sites require a cookie to do a get request from them. Open the script if you need to change the default cookie
   
   
   
