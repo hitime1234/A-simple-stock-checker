@@ -20,13 +20,13 @@
   
 # ChangeLOG:
 
- #0.5 beta:
+ 0.5 beta:
 
     GUI ADDED
   
     executable (*beta)
   
-  #0.8 final beta:
+  0.8 final beta:
 
     bug fixes
   
