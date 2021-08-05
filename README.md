@@ -23,7 +23,7 @@
     windows 10 specifically uses this commands
     commands:
         py -m pip install pyinstaller
-        cd "to your downloads folder/ontaining GUI source"
+        cd "to your downloads folder/containing GUI source"
         py -m PyInstaller -F main.py --hidden-import stockCheck --hidden-import GUI -i bulb.ico
     
 # ChangeLOG:
