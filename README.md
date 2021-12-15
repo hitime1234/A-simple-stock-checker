@@ -18,7 +18,7 @@
   
 
 # making your own executable
-    downlaod python3 
+    download python3 
     open command prompt (windows 7/8/10)
     windows 10 specifically uses this commands
     commands:
